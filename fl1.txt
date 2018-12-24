@@ -11,6 +11,8 @@ this is a simple text file
      <BODY>
               login : <input> </input>
 username:
+password:
+submit : <input type="submit"></input>
 
      </BODY>
 </HTML>
