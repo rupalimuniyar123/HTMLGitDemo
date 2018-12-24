@@ -9,7 +9,8 @@ this is a simple text file
 
 </HEAD>
      <BODY>
-              
+              login : <input> </input>
+username:
 
      </BODY>
 </HTML>
