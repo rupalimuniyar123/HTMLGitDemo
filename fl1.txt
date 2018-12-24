@@ -9,9 +9,10 @@ this is a simple text file
 
 </HEAD>
      <BODY>
-              login : <input> </input>
-username:
-password:
+              <h3> login </h3>
+username: <input type="text"/>
+
+password: <input type="password"/>
 submit : <input type="submit"></input>
 
      </BODY>
